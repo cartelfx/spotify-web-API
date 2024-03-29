@@ -27,9 +27,6 @@
 | device     | Müziği çalan cihaz değiştiğinde yayınlanır.                                                      | SpotifyCihazı   |
 | close      | WebSocket kapatıldığında yayınlanır. Yeniden bağlanmanın belirli bir süre sonra gerçekleşmesi gerektiğini gösterir. | yok             |
 
-[tests klasöründe](https://github.com/cartelfx/spotify-web-API/blob/master/test/index.js), çalışan bir örnek bulabilirsiniz.
-
-Veri tipleri [burada](https://github.com/cartelfx/spotify-web-API/blob/master/ts/SpotifyClient.ts) belirtilmiştir.
 
 ## Başlamadan önce
 Sactivity, Spotify tarafından giriş yapıldıktan sonra verilen çerezlerle çalışır ve oldukça uzun süre korunur gibi görünür. İhtiyaç duyulan çerezleri nasıl alacağınız aşağıda açıklanmıştır:
